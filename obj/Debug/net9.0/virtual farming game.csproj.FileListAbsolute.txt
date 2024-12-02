@@ -1,0 +1,14 @@
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.GeneratedMSBuildEditorConfig.editorconfig
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.AssemblyInfoInputs.cache
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.AssemblyInfo.cs
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.csproj.CoreCompileInputs.cache
+D:\virtual farming game\bin\Debug\net9.0\virtual farming game.exe
+D:\virtual farming game\bin\Debug\net9.0\virtual farming game.deps.json
+D:\virtual farming game\bin\Debug\net9.0\virtual farming game.runtimeconfig.json
+D:\virtual farming game\bin\Debug\net9.0\virtual farming game.dll
+D:\virtual farming game\bin\Debug\net9.0\virtual farming game.pdb
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.dll
+D:\virtual farming game\obj\Debug\net9.0\refint\virtual farming game.dll
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.pdb
+D:\virtual farming game\obj\Debug\net9.0\virtual farming game.genruntimeconfig.cache
+D:\virtual farming game\obj\Debug\net9.0\ref\virtual farming game.dll
