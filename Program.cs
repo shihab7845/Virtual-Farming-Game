@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 class Program
@@ -7,11 +7,11 @@ class Program
     private class Player
     {
         string name;
-        int balance;
+        double balance;
         double initialLandOwned;
 
         // Regular constructor
-        public Player(string Name, int Balance, double InitialLandOwned)
+        public Player(string Name, double Balance, double InitialLandOwned)
         {
             name = Name;
             balance = Balance;
